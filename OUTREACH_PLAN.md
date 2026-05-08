@@ -9,10 +9,10 @@ Send to these 4 first — they're the fastest to reach:
 
 | # | Company | Email | Phone | Status |
 |---|---------|-------|-------|--------|
-| 1 | **ACE Home Services** | info@acehomeaz.com | (602) 943-2000 | ❌ Not sent |
-| 2 | **Alaskan Air** | info@alaskanac.com | (602) 529-5555 | ❌ Not sent |
-| 3 | **Air Care Cooling & Heating** | info@aircareaz.com | (623) 252-6403 | ❌ Not sent |
-| 4 | **Cold Stinger** | coldstingerllc@yahoo.com | (602) 268-4263 | ❌ Not sent |
+| 1 | **ACE Home Services** | info@acehomeaz.com | (602) 943-2000 | ✅ Sent |
+| 2 | **Alaskan Air** | info@alaskanac.com | (602) 529-5555 | ✅ Sent |
+| 3 | **Air Care Cooling & Heating** | info@aircareaz.com | (623) 252-6403 | ✅ Sent |
+| 4 | **Cold Stinger** | coldstingerllc@yahoo.com | (602) 268-4263 | ✅ Sent |
 
 ---
 
@@ -96,8 +96,8 @@ to discuss new customer acquisition?"
 
 ## Next Best Actions (Priority Order)
 
-1. **Send emails** — ACE Home Services, Alaskan Air, Air Care, Cold Stinger
-2. **Call** — Day & Night Air, Chas Roberts, Mountainside Air
-3. **Follow up** — Donley A/C (form submitted, call to confirm receipt)
-4. **Call week 2** — remaining 8 phone numbers
-5. **Find email** for Desert Diamond Air via LinkedIn/BBB
+1. ✅ ~~Send emails~~ — ACE Home Services, Alaskan Air, Air Care, Cold Stinger — **DONE**
+2. 📞 **Call** — Day & Night Air, Chas Roberts, Mountainside Air, Arizona Air Experts
+3. 📞 **Follow up** — Donley A/C (form submitted, call to confirm receipt)
+4. 📞 **Call week 2** — remaining 8 phone numbers
+5. 🔍 **Find email** for Desert Diamond Air via LinkedIn/BBB
