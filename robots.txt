@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://desertcomfortquotes.github.io/phoenix-hvac-quotes/sitemap.xml
